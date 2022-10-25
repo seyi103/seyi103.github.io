@@ -3,6 +3,7 @@
 /* Main Color palette and fonts */
 
 html {
+  --shadow:       rgba(32,30,30,.3);
   --accent:       #DB504A;    /* accent     */
   --accent-dark:  #4e3e51;    /* accent 2   */
   --main:         #326273;    /* main color */
